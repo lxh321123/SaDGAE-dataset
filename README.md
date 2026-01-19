@@ -1,2 +1,2 @@
 # scDeGAEsa_dataset
-The datasets used in the scDeGAEsa method.
+The datasets used in the SaDGAE method.
